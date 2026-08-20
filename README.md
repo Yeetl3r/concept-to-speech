@@ -207,5 +207,9 @@ This is a hackathon prototype and should be read as one.
 - Usage telemetry to identify which concepts are reached for and never found
 
 ## Team
-
-Built at VOID 2025, VIT Chennai. Joint work — the repository history is authored by a teammate.
+**Varadharajan V** -[Email](varadharajanv09@gmail.com) 
+**Abishek V.P.T**  -[Email](at5463@srmist.edu.in) 
+**Shiva Kumar**  -[Email](mridahshivakumar30@gmail.com) 
+**Prashanth**  -[Email](prashi010307@gmail.com) 
+**Monika**  -[Email](monikasuresh2005@gmail.com) 
+**Nitheesha**  -[Email](nitheeshagurram@gmail.com) 
