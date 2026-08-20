@@ -207,9 +207,10 @@ This is a hackathon prototype and should be read as one.
 - Usage telemetry to identify which concepts are reached for and never found
 
 ## Team
-**Varadharajan V** 
-**Abishek**  
-**Shiva Kumar**  
-**Prashanth**  
-**Monika** 
-**Nitheesha**  
+
+- **Varadharajan V**
+- **Abishek**
+- **Shiva Kumar**
+- **Prashanth**
+- **Monika**
+- **Nitheesha**
