@@ -208,7 +208,7 @@ This is a hackathon prototype and should be read as one.
 
 ## Team
 **Varadharajan V** 
-**Abishek V.P.T**  
+**Abishek **  
 **Shiva Kumar**  
 **Prashanth**  
 **Monika** 
