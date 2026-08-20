@@ -207,9 +207,9 @@ This is a hackathon prototype and should be read as one.
 - Usage telemetry to identify which concepts are reached for and never found
 
 ## Team
-**Varadharajan V** -[Email](varadharajanv09@gmail.com) 
-**Abishek V.P.T**  -[Email](at5463@srmist.edu.in) 
-**Shiva Kumar**  -[Email](mridahshivakumar30@gmail.com) 
-**Prashanth**  -[Email](prashi010307@gmail.com) 
-**Monika**  -[Email](monikasuresh2005@gmail.com) 
-**Nitheesha**  -[Email](nitheeshagurram@gmail.com) 
+**Varadharajan V** 
+**Abishek V.P.T**  
+**Shiva Kumar**  
+**Prashanth**  
+**Monika** 
+**Nitheesha**  
